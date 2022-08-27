@@ -1,0 +1,4 @@
+comecei a trabalhar: 8:00
+pausa para o almoço: 12:00
+retorno do almoço: 13:00
+final do expediente: 20:00
